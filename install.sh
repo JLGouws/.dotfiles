@@ -40,6 +40,8 @@ cd ~/.local/share/fonts
 
 curl --remote-name-all -L https://github.com/golang/image/raw/master/font/gofont/ttf/s/{Go-Bold-Italic.ttf,Go-Bold.ttf,Go-Italic.ttf,Go-Medium-Italic.ttf,Go-Medium.ttf,Go-Mono-Bold-Italic.ttf,Go-Mono-Italic.ttf,Go-Mono.ttf,Go-Regular.ttf,Go-Smallcaps-italic.ttf,Go-Smallcaps.ttf}
 
+curl --remote-name-all -L https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/{Iosevka.zip,UbuntuMono.zip,DejaVuSansMono.zip}
+
 #go back to directory
 cd -
 

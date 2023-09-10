@@ -6,13 +6,12 @@ libxinerama-dev
 curl
 zsh
 tmux
-lightdm
+lightdm-gtk-greeter
 bspwm
 sxhkd
 polybar
 picom
-rxvt-unicode-256color
+rxvt-unicode
 fzf
 neovim
-firefox
-ttf-ubuntu-font-family
+firefox-esr

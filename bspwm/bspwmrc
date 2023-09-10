@@ -4,7 +4,7 @@ xsetroot -cursor_name left_ptr
 sxhkd &
 picom &
 
-~/bin/polybar/launch.sh &
+~/.config/polybar/launch.sh &
 
 bspc monitor -d I II III IV V VI VII VIII IX X
 

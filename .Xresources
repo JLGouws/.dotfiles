@@ -7,28 +7,11 @@ URxvt.background: [80]#282828
 
 
 URxvt.font: \
-             xft:Comic Mono:style=Normal:antialias=true:size=16:minspace=False
-!URxvt.font: \
-!            xft:UbuntuMono Nerd Font Mono:style=Regular:antialias=true:size=16:minspace=False, \
-!            xft:SauceCodePro Nerd Font:style=Regular:antialias=true:size=16:minspace=False, \
-!            xft:DejaVuSansMono Nerd Font:antialias=true:size=16:minspace=False, \
-!            xft:DroidSansMono Nerd Font Mono:antialias=true:size=16, \
-!            xft:FuraMono NF:size=16:antialias=true:minspace=False, \
-!            xft:RobotoMono Nerd Font:antialias=true:size=16:minspace=False, \
-!            xft:Noto Sans Mono:antialias=true:size=16:minspace=False, \
-!            xft:Monospace:style=Medium:antialias=true:minspace=False, \
-!            xft:Comic Mono:style=Normal:antialias=true:size=16:minspace=False
-!
-!URxvt.boldFont: \
-!            xft:Comic Mono:style=Bold:antialias=true:size=18:minspace=False, \
-!            xft:UbuntuMono Nerd Font Mono:style=Regular:antialias=true:size=16:minspace=False, \
-!            xft:SauceCodePro Nerd Font:style=Medium:antialias=true:size=16:minspace=False, \
-!            xft:DejaVuSansMono Nerd Font:antialias=true:size=16:minspace=False, \
-!            xft:DroidSansMono Nerd Font Mono:antialias=true:size=16, \
-!            xft:FuraMono NF:size=16:antialias=true:minspace=False, \
-!            xft:RobotoMono Nerd Font:antialias=true:size=16:minspace=False, \
-!            xft:Noto Sans Mono:antialias=true:size=16:minspace=False, \
-!            xft:Monospace:style=Medium:antialias=true:minspace=False
+             xft:UbuntuMono Nerd Font Mono:style=Regular:antialias=true:size=20:minspace=False, \
+             xft:DejaVuSansMono Nerd Font:antialias=true:size=20:minspace=False, \
+
+URxvt.boldFont: 
+             xft:UbuntuMono Nerd Font Mono:style=bold:antialias=true:size=22:minspace=False, \
+             xft:DejaVuSans Nerd Font:antialias=true:style=bold:size=22:minspace=False
 
 URxvt.scrollBar: false
-
